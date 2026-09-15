@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-36:/layout_activity_add_edit_ingredient.xml.flat",
+        "source": "com.example.smartpantry.app-main-38:/layout/activity_add_edit_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_item_recipe.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\item_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_activity_suggested_recipes.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\activity_suggested_recipes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_restaurant.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_restaurant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_item_ingredient_row.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\item_ingredient_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_check_circle.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_check_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_item_pantry.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\item_pantry.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_activity_add_edit_ingredient.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\activity_add_edit_ingredient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_cancel_circle.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_cancel_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\layout_activity_recipe_detail.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\layout\\activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-debug-36:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.7.1\\com.example.smartpantry.app-main-38:\\drawable\\ic_add.xml"
+    }
+]
