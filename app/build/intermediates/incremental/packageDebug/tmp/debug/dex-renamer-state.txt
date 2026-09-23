@@ -1,12 +1,12 @@
-#Mon Sep 14 12:06:58 SAST 2026
-base.0=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.3=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.4=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
-base.5=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
-base.6=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\global_synthetics_dex\\debug\\generateDebugGlobalSynthetics\\classes.dex
-base.7=C\:\\Users\\Asus\\AndroidStudioProjects\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Wed Sep 23 11:11:16 SAST 2026
+base.0=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.3=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.4=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.5=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.6=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\global_synthetics_dex\\debug\\generateDebugGlobalSynthetics\\classes.dex
+base.7=C\:\\JAVA 2026\\SmartPantryManager\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=10/classes.dex

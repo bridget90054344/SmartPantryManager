@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_check_circle.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_activity_add_edit_ingredient.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/activity_add_edit_ingredient.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_activity_suggested_recipes.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/activity_suggested_recipes.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_launcher.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_cancel_circle.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_cancel_circle.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_activity_settings.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_settings.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_restaurant.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_restaurant.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_delete.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_back.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_item_recipe.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/item_recipe.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_activity_recipe_detail.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/activity_recipe_detail.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_item_ingredient_row.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/item_ingredient_row.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_list.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_list.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/drawable_ic_add.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.smartpantry.app-debug-3:/layout_item_pantry.xml.flat",
+        "source": "com.example.smartpantry.app-main-5:/layout/item_pantry.xml"
+    }
+]
