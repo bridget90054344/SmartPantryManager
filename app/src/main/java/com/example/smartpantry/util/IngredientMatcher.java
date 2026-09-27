@@ -38,9 +38,10 @@ public class IngredientMatcher {
             s = s.substring(0, s.length() - 3) + "y";      // "berries" -> "berry"
         } else if (s.endsWith("oes") && s.length() > 4) {
             s = s.substring(0, s.length() - 2);             // "tomatoes" -> "tomato"
-        } else if (s.endsWith("es") && s.length() > 4 && !s.endsWith("ses")) {
+        } /*else if (s.endsWith("es") && s.length() > 4 && !s.endsWith("ses")) {
             s = s.substring(0, s.length() - 2);              // "dishes" -> "dish"
-        } else if (s.endsWith("s") && !s.endsWith("ss") && s.length() > 3) {
+        } */
+        else if (s.endsWith("s") && !s.endsWith("ss") && s.length() > 3) {
             s = s.substring(0, s.length() - 1);              // "eggs" -> "egg"
         }
         return s;
