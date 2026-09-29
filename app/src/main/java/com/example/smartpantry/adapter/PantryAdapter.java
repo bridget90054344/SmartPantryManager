@@ -1,5 +1,7 @@
 package com.example.smartpantry.adapter;
 
+import static java.lang.Boolean.parseBoolean;
+
 import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,7 +13,10 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.smartpantry.R;
+import com.example.smartpantry.db.DatabaseHelper;
 import com.example.smartpantry.model.PantryItem;
+import com.example.smartpantry.util.ExpiryChecker;
+import com.google.android.material.card.MaterialCardView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -54,7 +59,29 @@ public class PantryAdapter extends RecyclerView.Adapter<PantryAdapter.PantryView
         if (!TextUtils.isEmpty(item.getExpiryDate())) {
             subtitle.append(" · expires ").append(item.getExpiryDate());
         }
+
+        boolean alertsEnabled = Boolean.parseBoolean(DatabaseHelper.getInstance(holder.itemView.getContext()).
+                getSetting("expiry_alerts_enabled", "true"));
+
+        ExpiryChecker.Status status = alertsEnabled ? ExpiryChecker.check(item.getExpiryDate()) : ExpiryChecker.Status.NONE;
+
+        boolean needsAttention = status == ExpiryChecker.Status.EXPIRED || status ==ExpiryChecker.Status.EXPIRING_SOON;
+
+        if(status == ExpiryChecker.Status.EXPIRED){
+            subtitle.append(" . Expired");
+        }else if(status == ExpiryChecker.Status.EXPIRING_SOON){
+            subtitle.append(" . Expiring Soon");
+        }
+
         holder.quantity.setText(subtitle.toString());
+
+        int textColor = holder.itemView.getResources().getColor(needsAttention ? R.color.missing : R.color.text_secondary);
+        holder.quantity.setTextColor(textColor);
+
+        if(holder.itemView instanceof MaterialCardView){
+            int strokeColor = holder.itemView.getResources().getColor(needsAttention ? R.color.missing : R.color.outline);
+            ((MaterialCardView) holder.itemView).setStrokeColor(strokeColor);
+        }
 
         holder.itemView.setOnClickListener(v -> listener.onItemClicked(item));
         holder.deleteButton.setOnClickListener(v -> listener.onDeleteClicked(item));

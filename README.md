@@ -56,4 +56,4 @@ that needs "200 g".
 
 ## Repository
 
-GitHub: <ADD YOUR REPOSITORY LINK HERE BEFORE SUBMITTING>
+GitHub: https://github.com/bridget90054344/SmartPantryManager
